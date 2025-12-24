@@ -10,6 +10,10 @@ This repository holds all the core brand assets for Solace Organization.
 
   <img src="./assets/logo_icon_LIGHT.png" width="164" height="164" />
 
+* Liquid Metal:
+  
+    <img src="./assets/logo_icon_LIQUID-METAL.png" width="164" height="164" />
+
 ### Banner
 * Dark:
 
